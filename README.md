@@ -52,7 +52,7 @@ cd resume-builder
 ```
 ### Option 3: GitHub Pages
 Resume builder will be live at 
-https://mahsuait.github.io/resume-builder
+[https://mahsuait.github.io/resume-builder](https://mahsuait.github.io/Resume-Builder/)
 
 Browser Support
 ```bash
